@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link]()
-- Live Site URL: [Netlify link]()
+- Solution URL: [Github link](https://github.com/dnomjr/interactive-rating-card-JS.git)
+- Live Site URL: [Netlify link](https://interactive-rating-card.netlify.app/)
 
 ### Built with
 
